@@ -1,6 +1,6 @@
 - 👋 Hi, I’m QuangMinh
-- 👀 I’m interested in web developement, AI, 
-- 🌱 I’m currently learning backend development
+- 👀 I’m interested in web developement, software development, AI
+- 🌱 I’m currently learning backend development, fullstack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...quangminhbk1107@gmail.com
 
